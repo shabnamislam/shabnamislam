@@ -1,4 +1,4 @@
-[![MasterHead](https://cdnb.artstation.com/p/assets/images/images/041/601/775/original/ida-franzen-karlsson-background-animation.gif?1632167232)](https://rishavchanda.io)
+[![@shabnamislam's Holopin board](https://holopin.io/api/user/board?user=shabnamislam)](https://holopin.io/@shabnamislam)
 <h1 align="center">Hi 👋, I'm Shabnam Islam</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2851002/screenshots/7736965/media/e08e0676dd54ae8715c2d72bbdd51eb2.gif">
@@ -13,8 +13,8 @@
 
 - 📫 How to reach me **shabnamkhushi2001@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
-[![@shabnamislam's Holopin board](https://holopin.io/api/user/board?user=shabnamislam)](https://holopin.io/@shabnamislam)
+- ⚡ Fun fact **I love watching Animes.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
