@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shabnamkhushi2001@gmail.com**
 
-- ⚡ Fun fact **I love watching Animes.**
+- ⚡ Fun fact **I am into Animes.**
 
 
 <h3 align="left">Connect with me:</h3>
